@@ -15,4 +15,18 @@ function App() {
   );
 }
 
+
+
+
 export default App;
+
+
+function Appoop() {
+  const mymesage = "Hello Abdimalik"
+  return (
+    <div className="App">
+      <p>{mymesage}</p>
+    </div>
+  );
+}
+
