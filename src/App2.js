@@ -1,9 +1,9 @@
-function calculate () {
-const age = 20;
+// function calculate () {
+// const age = 20;
 
-  return {
+//   return {
     
-  }
+//   }
 
-}
-export default calculate;
+// }
+// export default calculate;
