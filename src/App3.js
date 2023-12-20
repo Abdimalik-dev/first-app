@@ -7,6 +7,7 @@ function App()  {
     // );
 
 
+
     /// maping the ARRAY
 
     const names = ["Mohamed", "Abdimalik", "ali"]
@@ -17,6 +18,12 @@ function App()  {
 
         </div>
     )
+    ///########################  Array @####################
+
+
+
+
+    
     
 } 
 
