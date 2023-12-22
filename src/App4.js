@@ -10,7 +10,7 @@ function App() {
         <div className="App">
             <h1> List</h1>
             {grocery.map((product)=> 
-            <h1>{product}</h1> 
+            <h1>{item}</h1> 
   
             )}
         </div>
