@@ -9,11 +9,8 @@ function App() {
     return (
         <div className="App">
             <h1> List</h1>
-            {grocery.map((item,price)=> 
-            <h1>  {item.price} {price.item } 
-             </h1> 
-            
-           
+            {grocery.map((product)=> 
+            <h1>{product}</h1> 
   
             )}
         </div>
