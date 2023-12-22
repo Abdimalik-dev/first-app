@@ -4,7 +4,8 @@ function App()  {
     //     <div className = "App">
     //         <h1>{age > 10 ? "over 18" : "under"}</h1>
     //     </div>
-    // );
+    // );  
+
 
 
 
@@ -13,7 +14,7 @@ function App()  {
     const names = ["Mohamed", "Abdimalik", "ali"]
     return (
         <div className = "App">
-            <h1> NAmes </h1>
+            <h1> Names </h1>
             {names.map((name)=> <h1> {name}</h1>) }
 
         </div>
@@ -22,8 +23,9 @@ function App()  {
 
 
 
-
     
+
+
     
 } 
 
