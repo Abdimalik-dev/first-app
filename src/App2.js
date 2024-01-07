@@ -14,7 +14,7 @@ function App () {
 
    return (
     <div className="App">
-        
+        <h2>Errors</h2>
         <h1>Names</h1>
 
         {names.map((name) => <h1> {name} </h1>
