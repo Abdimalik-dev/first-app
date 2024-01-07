@@ -11,6 +11,7 @@ const App = () => {
 	const handleClick2 = () => {
 		setCounter(counter - 1);
 	};
+	//////
 
 	return (
 		<div> 	Counter App <div>{counter}
